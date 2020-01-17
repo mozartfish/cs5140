@@ -1,0 +1,33 @@
+The number of trials m: 400
+the domain  300  for  400  trials
+time:  0.7468345165252686
+the domain  5000  for  400  trials
+time:  19.270800590515137
+the domain  10000  for  400  trials
+time:  41.46618723869324
+the domain  15000  for  400  trials
+time:  62.73109817504883
+the domain  20000  for  400  trials
+time:  90.02410364151001
+The number of trials m: 2500
+the domain  300  for  2500  trials
+time:  4.617833137512207
+the domain  5000  for  2500  trials
+time:  120.82462978363037
+the domain  10000  for  2500  trials
+time:  260.59862208366394
+the domain  15000  for  2500  trials
+time:  392.31491470336914
+the domain  20000  for  2500  trials
+time:  561.4699368476868
+The number of trials m: 5000
+the domain  300  for  5000  trials
+time:  9.170554637908936
+the domain  5000  for  5000  trials
+time:  238.4509301185608
+the domain  10000  for  5000  trials
+time:  516.1809816360474
+the domain  15000  for  5000  trials
+time:  779.4082067012787
+the domain  20000  for  5000  trials
+time:  1120.2953372001648
