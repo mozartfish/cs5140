@@ -202,7 +202,7 @@ def plot_data(centers, data, name):
                 plt.scatter(g, h, s=300, c='red', marker='*')
             else:
                 g, h = center
-                plt.scatter(g, h, s=300, c='orange', marker='*')
+                plt.scatter(g, h, s=300, c='red', marker='*')
                 plt.scatter(x, y, c='b')
     plt.title(name)
     plt.show()
